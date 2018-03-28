@@ -44,37 +44,45 @@ Detect Image:
 ./darknet detector test cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights data/dog.jpg
 ```
 Webcam:
-```./darknet detector demo cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights
+```
+./darknet detector demo cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights
 ```
 
 PyTorch-Yolo2:
-```python demo.py cfg/tiny-yolo-voc.cfg tiny-yolo-voc.weights
+```
+python demo.py cfg/tiny-yolo-voc.cfg tiny-yolo-voc.weights
 ```
 
 Darkflow:
-```./flow --model cfg/tiny-yolo-voc.cfg --load backup/tiny-yolo-voc.weights --demo camera
+```
+./flow --model cfg/tiny-yolo-voc.cfg --load backup/tiny-yolo-voc.weights --demo camera
 ```
 
 RectLabel - Pay the man, and then label your items. You'll need to add your object in settings first, load your folder, and then go crazy labeling. Remember the 'command-I' if you're doing a lot. It helps.
 
 VOC_Label, convert pixel annotations to Yolo percentage annotations:
-```python voc_label.py -p training/JackSkellington
+```
+python voc_label.py -p training/JackSkellington
 ``` . 
 
 Process training and test files (copy to same directory as images, without annotations folder in it):
-```python process.py
+```
+python process.py
 ```
 
 Validate - AlexeyAb:
-```./darknet detector map data/skellington.data cfg/skellington.cfg backup/skellington_1000.weights
+```
+./darknet detector map data/skellington.data cfg/skellington.cfg backup/skellington_1000.weights
 ```
 
-```./darknet detector map data/skellington.data cfg/skellington.cfg backup/skellington_4000.weights
+```
+./darknet detector map data/skellington.data cfg/skellington.cfg backup/skellington_4000.weights
 ```
 
 Jack Skellington Demo - PyTorch
 You need to copy the demo.py file I included into your PyTorch Yolo2 folder. It has some quick changes to lower the threshold and pull the proper .data file.
-```python demo.py cfg/skellington.cfg backup/skellington_4000.weights
+```
+python demo.py cfg/skellington.cfg backup/skellington_4000.weights
 ```
 
 I think that's about it. You should be able to figure out how to do your own custom objects from this. Feel free to post an issue if you run into any challenges.
