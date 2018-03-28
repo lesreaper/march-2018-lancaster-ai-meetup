@@ -40,7 +40,8 @@ You may not be able to see the commands in the video, so here is what I used.
 On Darknet original install:
 
 Detect Image:
-```./darknet detector test cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights data/dog.jpg
+```
+./darknet detector test cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights data/dog.jpg
 ```
 Webcam:
 ```./darknet detector demo cfg/voc.data cfg/tiny-yolo-voc.cfg backup/tiny-yolo-voc.weights
