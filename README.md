@@ -63,7 +63,7 @@ RectLabel - Pay the man, and then label your items. You'll need to add your obje
 VOC_Label, convert pixel annotations to Yolo percentage annotations:
 ```
 python voc_label.py -p training/JackSkellington
-``` . 
+```
 
 Process training and test files (copy to same directory as images, without annotations folder in it):
 ```
