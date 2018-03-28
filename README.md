@@ -17,11 +17,16 @@ This is not a small task. Getting all of these installed and working correctly c
 
 Install the frameworks you want to work with. Here is the listing again:
 
-Darknet (Original) [https://pjreddie.com/darknet/yolov2/](https://pjreddie.com/darknet/yolov2/)
-AlexeyAB (Windows/Linux): [https://github.com/AlexeyAB/darknet ](https://github.com/AlexeyAB/darknet)
-PyYolo - Python Wrapper on C [https://github.com/digitalbrain79/pyyolo ](https://github.com/digitalbrain79/pyyolo)
-Darkflow - Tensorflow [https://github.com/thtrieu/darkflow ](https://github.com/thtrieu/darkflow)
-PyTorch-Yolo2 - [https://github.com/marvis/pytorch-yolo2](https://github.com/marvis/pytorch-yolo2)  + many more
+Darknet (Original) [https://pjreddie.com/darknet/yolov2/](https://pjreddie.com/darknet/yolov2/) . 
+
+AlexeyAB (Windows/Linux): [https://github.com/AlexeyAB/darknet ](https://github.com/AlexeyAB/darknet) . 
+
+PyYolo - Python Wrapper on C [https://github.com/digitalbrain79/pyyolo ](https://github.com/digitalbrain79/pyyolo) . 
+
+Darkflow - Tensorflow [https://github.com/thtrieu/darkflow ](https://github.com/thtrieu/darkflow) . 
+
+PyTorch-Yolo2 - [https://github.com/marvis/pytorch-yolo2](https://github.com/marvis/pytorch-yolo2)  + many more . 
+
 Caffee-Yolo - Outdated :( - [https://github.com/yeahkun/caffe-yolo](https://github.com/yeahkun/caffe-yolo)
 
 Place the stuff in right folders, i.e. backup goes into backup. If the folder doesn't exist, just create it. This is based on the original [darkflow](https://pjreddie.com/darknet/yolov2) filesystem.  
@@ -53,7 +58,8 @@ RectLabel - Pay the man, and then label your items. You'll need to add your obje
 
 VOC_Label, convert pixel annotations to Yolo percentage annotations:
 ```python voc_label.py -p training/JackSkellington
-```
+``` . 
+
 Process training and test files (copy to same directory as images, without annotations folder in it):
 ```python process.py
 ```
