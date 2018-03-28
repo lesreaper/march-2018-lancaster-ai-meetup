@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>86. 95e8850c-7ce1-4f51-aae2-a2f4b170ef4b_1.44ef1d0214ba0c7637816f58782efd84.jpeg</filename>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>50</ymin>
+            <xmax>470</xmax>
+            <ymax>500</ymax>
+        </bndbox>
+    </object>
+</annotation>

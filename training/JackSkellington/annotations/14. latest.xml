@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>14. latest.jpg</filename>
+    <size>
+        <width>533</width>
+        <height>649</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34</xmin>
+            <ymin>10</ymin>
+            <xmax>501</xmax>
+            <ymax>649</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>54. Jack_Skellington_Sweatshirt_1000x.jpg</filename>
+    <size>
+        <width>1000</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>488</xmin>
+            <ymin>238</ymin>
+            <xmax>639</xmax>
+            <ymax>488</ymax>
+        </bndbox>
+    </object>
+</annotation>

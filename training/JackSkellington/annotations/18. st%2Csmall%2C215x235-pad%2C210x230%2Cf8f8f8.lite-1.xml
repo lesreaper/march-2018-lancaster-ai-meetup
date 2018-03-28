@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>18. st%2Csmall%2C215x235-pad%2C210x230%2Cf8f8f8.lite-1.jpg</filename>
+    <size>
+        <width>210</width>
+        <height>230</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>22</ymin>
+            <xmax>207</xmax>
+            <ymax>207</ymax>
+        </bndbox>
+    </object>
+</annotation>

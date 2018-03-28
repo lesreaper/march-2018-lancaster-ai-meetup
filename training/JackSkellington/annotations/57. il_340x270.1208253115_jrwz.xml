@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>57. il_340x270.1208253115_jrwz.jpg</filename>
+    <size>
+        <width>340</width>
+        <height>270</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>99</xmin>
+            <ymin>1</ymin>
+            <xmax>240</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>
+</annotation>

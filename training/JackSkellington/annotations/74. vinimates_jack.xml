@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>74. vinimates_jack.jpg</filename>
+    <size>
+        <width>578</width>
+        <height>898</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>32</ymin>
+            <xmax>562</xmax>
+            <ymax>877</ymax>
+        </bndbox>
+    </object>
+</annotation>

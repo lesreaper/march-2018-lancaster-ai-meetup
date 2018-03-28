@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>32. Disney-NBX-Jack-Skellington-15-_2.JPG.jpg</filename>
+    <size>
+        <width>1365</width>
+        <height>2048</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>120</ymin>
+            <xmax>1254</xmax>
+            <ymax>2037</ymax>
+        </bndbox>
+    </object>
+</annotation>

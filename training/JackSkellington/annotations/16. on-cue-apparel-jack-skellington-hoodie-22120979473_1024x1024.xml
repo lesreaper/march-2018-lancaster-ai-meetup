@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>16. on-cue-apparel-jack-skellington-hoodie-22120979473_1024x1024.jpg</filename>
+    <size>
+        <width>724</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>287</ymin>
+            <xmax>474</xmax>
+            <ymax>525</ymax>
+        </bndbox>
+    </object>
+</annotation>

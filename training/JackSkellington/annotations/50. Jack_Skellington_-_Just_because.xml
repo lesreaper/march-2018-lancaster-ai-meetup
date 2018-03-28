@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>50. Jack_Skellington_-_Just_because.jpg</filename>
+    <size>
+        <width>700</width>
+        <height>386</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>4</ymin>
+            <xmax>347</xmax>
+            <ymax>386</ymax>
+        </bndbox>
+    </object>
+</annotation>

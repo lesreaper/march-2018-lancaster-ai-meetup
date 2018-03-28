@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>28. 14-1cm-14-1cm-Jack-Skellington-Creative-Cartoon-Stickers-Decals-Black-Silver-S3-4994.jpg_640x640.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>289</xmin>
+            <ymin>177</ymin>
+            <xmax>395</xmax>
+            <ymax>420</ymax>
+        </bndbox>
+    </object>
+</annotation>

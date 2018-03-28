@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>63. jack_skellington_by_memorypalace.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>693</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>52</ymin>
+            <xmax>795</xmax>
+            <ymax>693</ymax>
+        </bndbox>
+    </object>
+</annotation>

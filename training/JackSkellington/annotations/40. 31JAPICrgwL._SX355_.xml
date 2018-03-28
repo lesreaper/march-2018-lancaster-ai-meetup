@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>40. 31JAPICrgwL._SX355_.jpg</filename>
+    <size>
+        <width>355</width>
+        <height>254</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>60</ymin>
+            <xmax>246</xmax>
+            <ymax>212</ymax>
+        </bndbox>
+    </object>
+</annotation>

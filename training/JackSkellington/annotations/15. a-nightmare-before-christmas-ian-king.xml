@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>15. a-nightmare-before-christmas-ian-king.jpg</filename>
+    <size>
+        <width>749</width>
+        <height>900</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>331</xmin>
+            <ymin>94</ymin>
+            <xmax>589</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>

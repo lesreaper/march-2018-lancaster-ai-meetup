@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>2. 120px-Jack_Skellington.png</filename>
+    <size>
+        <width>120</width>
+        <height>324</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>2</ymin>
+            <xmax>116</xmax>
+            <ymax>319</ymax>
+        </bndbox>
+    </object>
+</annotation>

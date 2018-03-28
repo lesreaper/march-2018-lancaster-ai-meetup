@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>67. jack-skellington-prestige-mens-costume.jpg</filename>
+    <size>
+        <width>1750</width>
+        <height>2500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249</xmin>
+            <ymin>157</ymin>
+            <xmax>1437</xmax>
+            <ymax>2323</ymax>
+        </bndbox>
+    </object>
+</annotation>

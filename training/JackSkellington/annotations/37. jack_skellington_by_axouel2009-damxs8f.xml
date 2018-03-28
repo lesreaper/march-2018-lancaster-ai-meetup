@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>37. jack_skellington_by_axouel2009-damxs8f.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>107</ymin>
+            <xmax>1023</xmax>
+            <ymax>1280</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>91. Jack-skellington-reciting-shakespeare-in-the-nightmare-before-christmas.jpg</filename>
+    <size>
+        <width>1000</width>
+        <height>562</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202</xmin>
+            <ymin>45</ymin>
+            <xmax>756</xmax>
+            <ymax>562</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>22. jack-skellington-portrait-disney-the-nightmare-before-christmas_800x.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>213</xmin>
+            <ymin>156</ymin>
+            <xmax>574</xmax>
+            <ymax>669</ymax>
+        </bndbox>
+    </object>
+</annotation>

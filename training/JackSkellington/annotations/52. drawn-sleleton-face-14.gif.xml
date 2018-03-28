@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>52. drawn-sleleton-face-14.gif.jpg</filename>
+    <size>
+        <width>761</width>
+        <height>725</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>1</ymin>
+            <xmax>761</xmax>
+            <ymax>725</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>JackSkellington</folder>
+    <filename>87. jack_skellington_by_shadowofacloud.jpg</filename>
+    <size>
+        <width>980</width>
+        <height>1525</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Jack Skellington</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>193</xmin>
+            <ymin>351</ymin>
+            <xmax>814</xmax>
+            <ymax>1253</ymax>
+        </bndbox>
+    </object>
+</annotation>
