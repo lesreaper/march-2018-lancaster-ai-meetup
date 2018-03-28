@@ -80,6 +80,7 @@ Validate - AlexeyAb:
 ```
 
 Jack Skellington Demo - PyTorch . 
+
 You need to copy the demo.py file I included into your PyTorch Yolo2 folder. It has some quick changes to lower the threshold and pull the proper .data file.
 ```
 python demo.py cfg/skellington.cfg backup/skellington_4000.weights
