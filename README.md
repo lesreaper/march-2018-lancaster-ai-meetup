@@ -10,7 +10,7 @@ You will need to install Python3, OpenCV 3.3 or higher, natsort, pickle and any 
 
 PLEASE NOTE: I am using Python3 in a [virtual environment](https://virtualenv.pypa.io/en/latest/installation/), which is why I can use the 'python blah' command to run my code versus 'python3 blah'. If you run into problems running the 'python' commands in these examples, try using 'python3' in its place or learn to use a virtualenv, which is the better way.
 
-This is not a small task. Getting all of these installed and working correctly can take a whole night of your life, so plan accordingly. You CAN just use them without the CUDA and cuDNN, which will shave a bunch of time (and save your lifeforce). Just remember the performance won't be great, and [PyTorch](https://github.com/marvis/pytorch-yolo2) and [Darknet](https://pjreddie.com/darknet/yolov2/) original versions give you the best FPS.
+This is not a small task. Getting all of these installed and working correctly can take a whole night of your life, so plan accordingly. You CAN just use them without the CUDA and cuDNN, which will shave a bunch of time (and save your lifeforce). Just remember the performance won't be great, and [PyTorch](https://github.com/marvis/pytorch-yolo2) and [Darknet](https://pjreddie.com/darknet/yolov2/) original versions give you the best FPS on a Mac.
 
 
 ### Getting started
@@ -57,6 +57,7 @@ Darkflow:
 ```
 ./flow --model cfg/tiny-yolo-voc.cfg --load backup/tiny-yolo-voc.weights --demo camera
 ```
+## Customizing your own objects
 
 RectLabel - Pay the man, and then label your items. You'll need to add your object in settings first, load your folder, and then go crazy labeling. Remember the 'command-I' if you're doing a lot. It helps.
 
