@@ -59,6 +59,8 @@ Darkflow:
 ```
 ## Customizing your own objects
 
+Here's a great [blog post on the process](https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/).
+
 [RectLabel](https://github.com/ryouchinsa/Rectlabel-support) - Pay the man, and then label your items. You'll need to add your object in settings first, load your folder, and then go crazy labeling. Remember the 'command-I' if you're doing a lot. It helps. If you're on a Linux or Windows machine, and want to, you can use [Yolo_Mark](https://github.com/AlexeyAB/Yolo_mark)
 
 VOC_Label, convert pixel annotations to Yolo percentage annotations:
